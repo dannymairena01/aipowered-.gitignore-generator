@@ -2,7 +2,7 @@
 
 Generates comprehensive `.gitignore` files using natural language prompts. Built with Next.js, Tailwind CSS, and OpenAI's GPT-4o.
 
-![Project Screenshot](https://raw.githubusercontent.com/dannymairena01/project2-100daychallenge/main/public/project-screenshot.png) 
+![Project Screenshot](https://raw.githubusercontent.com/dannymairena01/aipowered-.gitignore-generator/main/public/project-screenshot.png) 
 *(Note: Screenshot deployment step)*
 
 ## Features
@@ -17,8 +17,8 @@ Generates comprehensive `.gitignore` files using natural language prompts. Built
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/dannymairena01/project2-100daychallenge.git
-    cd project2-100daychallenge
+    git clone https://github.com/dannymairena01/aipowered-.gitignore-generator.git
+    cd aipowered-.gitignore-generator
     ```
 
 2.  **Install dependencies**:
