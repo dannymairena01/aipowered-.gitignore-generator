@@ -2,8 +2,6 @@
 
 Generates comprehensive `.gitignore` files using natural language prompts. Built with Next.js, Tailwind CSS, and OpenAI's GPT-4o.
 
-![Project Screenshot](https://raw.githubusercontent.com/dannymairena01/aipowered-.gitignore-generator/main/public/project-screenshot.png) 
-*(Note: Screenshot deployment step)*
 
 ## Features
 
